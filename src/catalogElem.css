@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 25px 170px;
-  width: calc(6 * 170px + 5 * 170px); /* 6 элементов + 5 промежутков */ 
+  width: calc(6 * 170px + 5 * 170px);  
 }
 #cPicture{
   width: 170px;
